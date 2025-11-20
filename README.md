@@ -36,14 +36,14 @@
 
 ---
 
-### 📊 Немного статистики
+### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravokosaE&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bravokosa&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravokosa&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 
@@ -53,7 +53,7 @@ status: "coding... ☕"
 
 ### colling:
 
-- Telegram: [@your_nick](https://t.me/getnotes)
+- Telegram: [@getnotes](https://t.me/getnotes)
 - Email: admin@genotes.of.by
 
 > if you are reading this, it means the CI in my head is still passing without errors 
