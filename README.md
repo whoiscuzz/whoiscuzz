@@ -21,11 +21,11 @@
 ### 🛠 code:
 
 - 💚 kotlin / android (compose, coroutines, ktor)
-- 🌐 javascript / TypeScript, Node.js
-- 🧱 html / css / a bit of React / Vue
+- 🌐 javascript / node.js
+- 🧱 html / css / a bit of React 
 - 🐍 python
 - 🗄 SQL
-- ⚙️ linux, bash, git, GitHub, CI/CD по настроению
+- ⚙️ linux, bash, git, github, CI/CD 
 
 ---
 
