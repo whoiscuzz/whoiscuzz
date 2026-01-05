@@ -39,7 +39,7 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravokosa&show_icons=true&theme=tokyonight" alt="Бравокоса Гитхаб Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravokosa&layout=compact&theme=tokyonight" alt="Топ языков" />
 </p>
 
 
