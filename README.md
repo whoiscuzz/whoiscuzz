@@ -39,7 +39,10 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiscuzz&layout=compact&theme=tokyonight" alt="spoko щя починят" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 status: "coding... ☕"
