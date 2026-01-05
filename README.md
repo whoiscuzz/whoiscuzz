@@ -39,7 +39,7 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravokosa&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bravokosa&show_icons=true&theme=tokyonight" alt="Бравокоса Гитхаб Статистика" />
 </p>
 
 
