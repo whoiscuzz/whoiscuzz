@@ -39,9 +39,8 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravokosa&layout=compact&theme=tokyonight" alt="Топ языков" />
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravokosa&theme=tokyonight" />
+</p>>
 
 status: "coding... ☕"
 
