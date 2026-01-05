@@ -38,9 +38,6 @@
 
 ### 📊 statics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoiscuzz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoiscuzz&theme=tokyonight&area=true&hide_border=true" />
