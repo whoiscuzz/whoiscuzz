@@ -39,8 +39,8 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravokosa&theme=tokyonight" />
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiscuzz&layout=compact&theme=tokyonight" alt="spoko щя починят" />
+</p>
 
 status: "coding... ☕"
 
