@@ -39,7 +39,7 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiscuzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoiscuzz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
