@@ -31,8 +31,7 @@
 
 ### 🔭 working:
 
-- 📘 getnotes.of.by
-- 📝 tablet app
+- 📘 а хуй его знает
 
 ---
 
