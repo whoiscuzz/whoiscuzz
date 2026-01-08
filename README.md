@@ -59,7 +59,7 @@ status: "coding... ☕"
 
 ### colling:
 
-- Telegram: [@getnotes](https://t.me/getnotes)
+- Telegram: [@getnotes](https://t.me/getnotesofby)
 - Email: admin@genotes.of.by
 
 > if you are reading this, it means the CI in my head is still passing without errors 
