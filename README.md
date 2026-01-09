@@ -38,9 +38,8 @@
 ### 📊 statics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoiscuzz&theme=tokyo-night" />
+  <img src="https://ghchart.rshah.org/whoiscuzz" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
