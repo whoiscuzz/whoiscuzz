@@ -38,9 +38,8 @@
 ### 📊 statics
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoiscuzz&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=whoiscuzz&theme=github)](https://github.com/)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
