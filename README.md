@@ -37,8 +37,9 @@
 
 ### 📊 statics
 
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=whoiscuzz&theme=github)](https://github.com/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoiscuzz&show_icons=true&theme=tokyonight" />
+</p>
 
 
 <p align="center">
