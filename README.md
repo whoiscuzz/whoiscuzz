@@ -52,10 +52,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-status: "coding... ☕"
-
-
-
 ### colling:
 
 - Telegram: [@getnotes](https://t.me/getnotesofby)
